@@ -13,7 +13,8 @@
     "artVersion": "card-art-2"
   },
   "play": {
-    "fixedPairs": true
+    "fixedPairs": false,
+    "shufflePairs": true
   },
   "features": {
     "picnic": false
